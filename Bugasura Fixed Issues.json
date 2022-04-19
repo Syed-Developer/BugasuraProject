@@ -10,13 +10,13 @@
         "System": "Windows",
         "OS Ver": "Windows 10.0",
         "Browser": "Chrome 86",
-        "Resolution": "1280 x 720",
+        "Resolution": "1280 x 369",
         "Type": "BUG",
         "Tags": "UX,Functional",
         "Tester": "Sakshi Thanvi",
         "Assignee": "Pathik",
         "Jira Url": null,
-        "Jira Issue": null
+        "Jira Issue": 123456
     },
     {
         "Issue ID": "V2A624",
