@@ -1,4 +1,4 @@
 # BugasuraProject
 Integrating with Bugasura
 Editing this file.
-BUG12 FIXED..
+BUG12 FIXED...
