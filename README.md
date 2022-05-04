@@ -4,6 +4,6 @@ Editing this file.
 BUG6 FIXES
 BUG 10
 BUG11
-
+BUG12
 
 
